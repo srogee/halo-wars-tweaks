@@ -1,5 +1,5 @@
-﻿<HWMod ManifestVersion="1" ModID="5F5A74DE5527C20C596E02291D0BA50322D84942D37D232964A9D2BF32637A58">
-  <RequiredData Title="Joe's Halo Wars Tweaks" Author="Joe" Version="1.1" />
+﻿<HWMod ManifestVersion="1" ModID="504B06353B0ADBCB50919AE0411E8B47439FD41FE3F2B532DB2136FE9C8D4B01">
+  <RequiredData Title="Joe's Mod" Author="Joe" Version="1" />
   <OptionalData>
     <BannerArt></BannerArt>
     <Icon></Icon>

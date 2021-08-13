@@ -12,9 +12,9 @@
 		<Rate>LeaderPowerCharge</Rate>
 	</Rates>
 	<UnscSupplyPadBonus>0.75</UnscSupplyPadBonus>
-	<UnscSupplyPadBreakEvenPoint>13</UnscSupplyPadBreakEvenPoint>
+	<UnscSupplyPadBreakEvenPoint>6.5</UnscSupplyPadBreakEvenPoint>
 	<CovSupplyPadBonus>0.75</CovSupplyPadBonus>
-	<CovSupplyPadBreakEvenPoint>13</CovSupplyPadBreakEvenPoint>
+	<CovSupplyPadBreakEvenPoint>6.5</CovSupplyPadBreakEvenPoint>
 	<LeaderPowerChargeResource>LeaderPowerCharge</LeaderPowerChargeResource>
 	<LeaderPowerChargeRate>LeaderPowerCharge</LeaderPowerChargeRate>
 	<DifficultyEasy>0</DifficultyEasy>
@@ -200,7 +200,7 @@
 		<Good>3</Good>
 		<Extreme>4</Extreme>
 	</GoodAgainstReticle>
-	<MaxNumCorpses>100</MaxNumCorpses>
+	<MaxNumCorpses>75</MaxNumCorpses>
 	<MaxCorpseDisposalCount>10</MaxCorpseDisposalCount>
 	<InfantryCorpseDecayTime>3</InfantryCorpseDecayTime>
 	<CorpseSinkingSpacing>3</CorpseSinkingSpacing>
@@ -238,7 +238,7 @@
 		<BurningEffectLimitEntry Limit="3">Aircraft</BurningEffectLimitEntry>
 		<BurningEffectLimitEntry Limit="5">Building</BurningEffectLimitEntry>
 	</BurningEffectLimits>
-	<BaseRebuildTimer>15</BaseRebuildTimer>
+	<BaseRebuildTimer>30</BaseRebuildTimer>
 	<ObjectiveArrowRadialOffset>35</ObjectiveArrowRadialOffset>
 	<ObjectiveArrowSwitchOffset>30</ObjectiveArrowSwitchOffset>
 	<ObjectiveArrowMaxIndex>6</ObjectiveArrowMaxIndex>
@@ -267,14 +267,14 @@
 	<TransportDropoffHeight>15.0f</TransportDropoffHeight>
 	<TransportMax>3</TransportMax>
 	<HitchOffset>7</HitchOffset>
-	<ALMaxWanderFrequency>30.0f</ALMaxWanderFrequency>
+	<ALMaxWanderFrequency>20.0f</ALMaxWanderFrequency>
 	<ALPredatorCheckFrequency>2.0f</ALPredatorCheckFrequency>
 	<ALPreyCheckFrequency>0.5f</ALPreyCheckFrequency>
 	<ALOppCheckRadius>20.0f</ALOppCheckRadius>
 	<ALFleeDistance>40.0f</ALFleeDistance>
 	<ALFleeMovementModifier>1.5f</ALFleeMovementModifier>
 	<ALMinWanderDistance>30.0f</ALMinWanderDistance>
-	<ALMaxWanderDistance>5000.0f</ALMaxWanderDistance>
+	<ALMaxWanderDistance>200.0f</ALMaxWanderDistance>
 	<ALSpawnerCheckFrequency>1.0f</ALSpawnerCheckFrequency>
 	<PlayerStates>
 		<PlayerState>Playing</PlayerState>
@@ -288,7 +288,7 @@
 	<DefaultCryoPoints>100</DefaultCryoPoints>
 	<DefaultThawSpeed>15</DefaultThawSpeed>
 	<FreezingSpeedModifier>0.5</FreezingSpeedModifier>
-	<FreezingDamageModifier>1.25</FreezingDamageModifier>
+	<FreezingDamageModifier>1</FreezingDamageModifier>
 	<FrozenDamageModifier>1</FrozenDamageModifier>
 	<Dot small="4" medium="7" />
 </GameData>

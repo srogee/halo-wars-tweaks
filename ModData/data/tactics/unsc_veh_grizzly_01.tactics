@@ -61,7 +61,7 @@
 		<AttackRate>30</AttackRate>
 		<DamagePerSecond>2000</DamagePerSecond>
 		<UseDPSasDPA />
-		<WeaponType>Explosive</WeaponType>
+		<WeaponType>SmallArms</WeaponType>
 		<Projectile>fx_proj_canistershell_01</Projectile>
 		<ImpactEffect size="Medium">canisterblast</ImpactEffect>
 		<MaxVelocityLead>20</MaxVelocityLead>

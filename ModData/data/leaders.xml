@@ -12,7 +12,7 @@
 		<FlashImg>orbital</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\cutter.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_cutter.ddx</UIControlBackground>
-		<Resource Type="Supplies">1500</Resource>
+		<Resource Type="Supplies">800</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -23,8 +23,8 @@
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="99">40</Pop>
-		<Pop Type="Spartan" Max="5">5</Pop>
+		<Pop Type="Unit" Max="99">30</Pop>
+		<Pop Type="Spartan" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Forge" Icon="ui\game\icon\unsc\leader\Sergeant Forge" LeaderPickerOrder="3" StatsID="2" DefaultPlayerSlotFlags="0x2">
 		<Civ>UNSC</Civ>
@@ -35,7 +35,7 @@
 		<FlashImg>14thdivision</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\forge.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_forge.ddx</UIControlBackground>
-		<Resource Type="Supplies">1500</Resource>
+		<Resource Type="Supplies">800</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -46,8 +46,8 @@
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="99">40</Pop>
-		<Pop Type="Spartan" Max="5">5</Pop>
+		<Pop Type="Unit" Max="99">30</Pop>
+		<Pop Type="Spartan" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Anders" Icon="ui\game\icon\unsc\leader\Serina" Alpha="0" LeaderPickerOrder="4" StatsID="3" DefaultPlayerSlotFlags="0x4">
 		<Civ>UNSC</Civ>
@@ -58,7 +58,7 @@
 		<FlashImg>oni</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\Anders.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_anders.ddx</UIControlBackground>
-		<Resource Type="Supplies">1500</Resource>
+		<Resource Type="Supplies">800</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -69,8 +69,8 @@
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="99">40</Pop>
-		<Pop Type="Spartan" Max="5">5</Pop>
+		<Pop Type="Unit" Max="99">30</Pop>
+		<Pop Type="Spartan" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Random UNSC" LeaderPickerOrder="1" Random="true">
 		<Civ>UNSC</Civ>
@@ -89,7 +89,7 @@
 		<FlashImg>arbiter</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\arbiter.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_arbiter.ddx</UIControlBackground>
-		<Resource Type="Supplies">1500</Resource>
+		<Resource Type="Supplies">800</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -101,9 +101,9 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">100</ReverseHotDropCost>
-		<Pop Type="Unit" Max="99">50</Pop>
+		<Pop Type="Unit" Max="99">40</Pop>
 		<Pop Type="Leader" Max="1">1</Pop>
-		<Pop Type="Temple" Max="3">3</Pop>
+		<Pop Type="Temple" Max="1">1</Pop>
 	</Leader>
 	<Leader Name="Brute Chieftain" Icon="ui\game\icon\covenant\leader\Brute General" Alpha="0" LeaderPickerOrder="7" StatsID="5" DefaultPlayerSlotFlags="0x10">
 		<Civ>Covenant</Civ>
@@ -114,7 +114,7 @@
 		<FlashImg>bruteleader</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\brute.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_brutechief.ddx</UIControlBackground>
-		<Resource Type="Supplies">1500</Resource>
+		<Resource Type="Supplies">800</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -126,8 +126,8 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">100</ReverseHotDropCost>
-		<Pop Type="Unit" Max="99">50</Pop>
-		<Pop Type="Temple" Max="3">3</Pop>
+		<Pop Type="Unit" Max="99">40</Pop>
+		<Pop Type="Temple" Max="1">1</Pop>
 		<Pop Type="Leader" Max="1">1</Pop>
 	</Leader>
 	<Leader Name="Prophet of Mercy" Icon="ui\game\icon\covenant\leader\Elite General" Alpha="0" LeaderPickerOrder="7" StatsID="6" DefaultPlayerSlotFlags="0x20">
@@ -139,7 +139,7 @@
 		<FlashImg>prophet</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\prophet.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_prophet.ddx</UIControlBackground>
-		<Resource Type="Supplies">1500</Resource>
+		<Resource Type="Supplies">800</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -151,9 +151,9 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">100</ReverseHotDropCost>
-		<Pop Type="Unit" Max="99">50</Pop>
+		<Pop Type="Unit" Max="99">40</Pop>
 		<Pop Type="Leader" Max="1">1</Pop>
-		<Pop Type="Temple" Max="3">3</Pop>
+		<Pop Type="Temple" Max="1">1</Pop>
 	</Leader>
 	<Leader Name="Random Covenant" LeaderPickerOrder="8" Random="true">
 		<Civ>Covenant</Civ>
@@ -177,7 +177,7 @@
 		<DescriptionID>7021</DescriptionID>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\randomUnsc.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_random_unsc.ddx</UIControlBackground>
-		<Resource Type="Supplies">1500</Resource>
+		<Resource Type="Supplies">800</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -188,7 +188,7 @@
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="99">40</Pop>
+		<Pop Type="Unit" Max="99">30</Pop>
 	</Leader>
 	<Leader Name="Prophet of Pudding" Icon="ui\game\icon\covenant\leader\Prophet of truth" Test="true" Alpha="0">
 		<Civ>Covenant</Civ>
@@ -196,7 +196,7 @@
 		<DescriptionID>7023</DescriptionID>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\randomCov.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_random_cov.ddx</UIControlBackground>
-		<Resource Type="Supplies">1500</Resource>
+		<Resource Type="Supplies">800</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -207,7 +207,7 @@
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="99">50</Pop>
+		<Pop Type="Unit" Max="99">40</Pop>
 		<Pop Type="Temple" Max="1">1</Pop>
 	</Leader>
 </Leaders>

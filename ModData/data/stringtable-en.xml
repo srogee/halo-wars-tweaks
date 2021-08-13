@@ -362,7 +362,7 @@ MASTER STRING TABLE INDEX
       <String _locID='1160' category='Techs' subtitle='false'>MISSILE LAUNCHER</String>
       <String _locID='1161' category='Techs' subtitle='false'>Adds bonus Anti-Air attack to the Turret.</String>
       <String _locID='1162' category='Techs' subtitle='false'>REINFORCEMENTS</String>
-      <String _locID='1163' category='Techs' subtitle='false'>Adds +20 to the population cap of your army.</String>
+      <String _locID='1163' category='Techs' subtitle='false'>Adds +10 to the population cap of your army.</String>
       <String _locID='1164' category='Techs' subtitle='false'>AUTOCANNONS</String>
       <String _locID='1165' category='Techs' subtitle='false'>Adds front-firing 35mm guns, improving the Chopper's attack.</String>
       <String _locID='1166' category='Techs' subtitle='false'>STABILIZERS</String>
@@ -372,7 +372,7 @@ MASTER STRING TABLE INDEX
       <String _locID='1170' category='Techs' subtitle='false'>JUMP PACK ABILITY</String>
       <String _locID='1171' category='Techs' subtitle='false'>Enables the Jump Pack Ability, allowing Brutes to quickly cross the battlefield.</String>
       <String _locID='1172' category='Techs' subtitle='false'>FOLLOWERS</String>
-      <String _locID='1173' category='Techs' subtitle='false'>Increases the maximum size of your army by 20.</String>
+      <String _locID='1173' category='Techs' subtitle='false'>Increases the maximum size of your army by 10.</String>
       <String _locID='1174' category='Techs' subtitle='false'>
       </String>
       <String _locID='1175' category='Techs' subtitle='false'>
@@ -5010,7 +5010,7 @@ MASTER STRING TABLE INDEX
       <String _locID='26215' category='UI' subtitle='false'>Concept Image 12</String>
       <String _locID='26216' category='UI' subtitle='false'>Click here for the free Prima Halo Wars strategy guide!&lt;br&gt;Get the maps, strats, and build orders you need to conquer multiplayer or campaign in this free interactive guide from Prima.</String>
       <String _locID='26217' category='UI' subtitle='false'>Press any key or button to continue.</String>
-      <String _locID='26218' category='UI' subtitle='false'>JOE'S MOD EDITION</String>
+      <String _locID='26218' category='UI' subtitle='false'>You may change the desired peripheral in the Start Screen via the Main Menu.</String>
       <String _locID='26219' category='UI' subtitle='false'>Saving content... please do not exit the game.</String>
       <String _locID='26220' category='Skirmish' scenario='Hint Chat' subtitle='false'>Use $$LS$$ to center the cursor over the Warthog next to your base.</String>
       <String _locID='26221' category='Skirmish' scenario='Hint Chat' subtitle='false'>Use $$LS$$ to move the cursor over the beacon. Press $$X$$ to tell your Warthog to move there.</String>

@@ -6945,7 +6945,7 @@
 		<DisplayNameID>10078</DisplayNameID>
 		<RolloverTextID>10079</RolloverTextID>
 		<MovementType>Air</MovementType>
-		<Velocity>13</Velocity>
+		<Velocity>12</Velocity>
 		<TurnRate>45</TurnRate>
 		<Hardpoint name="LeftCannonTurret" autocenter="true" combined="true" yawrate="90" yawmaxangle="60" yawattachment="CannonLeft" />
 		<Hardpoint name="RightCannonTurret" autocenter="true" combined="true" yawrate="90" yawmaxangle="60" yawattachment="CannonRight" />
@@ -10051,8 +10051,7 @@
 		<Velocity>15</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>15000</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Hitpoints>17000</Hitpoints>
 		<AttackGradeDPS>450</AttackGradeDPS>
 		<CombatValue>30</CombatValue>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="45" yawattachment="Bip01 Spine" />
@@ -10090,7 +10089,6 @@
 		<Sound Type="Pain">play_cov_arbiter_vo_hit</Sound>
 		<ExtendedSoundBank>xtnd_ui_arbiter.bnk</ExtendedSoundBank>
 		<ObjectType>Covenant</ObjectType>
-		<DamageType direction="Full">Shielded</DamageType>
 		<DamageType direction="Full">CovenantLeader</DamageType>
 		<ObjectType>KeepsInGame</ObjectType>
 		<ObjectType>Military</ObjectType>
@@ -10116,7 +10114,7 @@
 		<Flag>HasHPBar</Flag>
 		<Flag>Obscurable</Flag>
 		<Flag>Repairable</Flag>
-		<HPBar>COV_HealthShield</HPBar>
+		<HPBar>COV_Health</HPBar>
 		<SquadModeAnim Mode="Power">RageStart</SquadModeAnim>
 		<SquadModeAnim Mode="Normal">RageEnd</SquadModeAnim>
 	</Object>
@@ -10132,8 +10130,7 @@
 		<Velocity>15</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>15000</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Hitpoints>17000</Hitpoints>
 		<AttackGradeDPS>450</AttackGradeDPS>
 		<CombatValue>30</CombatValue>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="45" yawattachment="Bip01 Spine" />
@@ -10171,7 +10168,6 @@
 		<Sound Type="Pain">play_cov_arbiter_vo_hit</Sound>
 		<ExtendedSoundBank>xtnd_ui_arbiter.bnk</ExtendedSoundBank>
 		<ObjectType>Covenant</ObjectType>
-		<DamageType direction="Full">Shielded</DamageType>
 		<DamageType direction="Full">CovenantLeader</DamageType>
 		<ObjectType>KeepsInGame</ObjectType>
 		<ObjectType>Military</ObjectType>
@@ -10197,7 +10193,7 @@
 		<Flag>HasHPBar</Flag>
 		<Flag>Obscurable</Flag>
 		<Flag>Repairable</Flag>
-		<HPBar>COV_HealthShield</HPBar>
+		<HPBar>COV_Health</HPBar>
 		<SquadModeAnim Mode="Power">RageStart</SquadModeAnim>
 		<SquadModeAnim Mode="Normal">RageEnd</SquadModeAnim>
 	</Object>
@@ -10213,8 +10209,7 @@
 		<Velocity>15</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>15000</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Hitpoints>20550</Hitpoints>
 		<AttackGradeDPS>450</AttackGradeDPS>
 		<CombatValue>30</CombatValue>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="45" yawattachment="Bip01 Spine" />
@@ -10251,7 +10246,6 @@
 		<Sound Type="Pain">play_cov_chieftain_vo_hit</Sound>
 		<ExtendedSoundBank>xtnd_ui_chieftain.bnk</ExtendedSoundBank>
 		<ObjectType>Covenant</ObjectType>
-		<DamageType direction="Full">Shielded</DamageType>
 		<DamageType direction="Full">CovenantLeader</DamageType>
 		<ObjectType>KeepsInGame</ObjectType>
 		<ObjectType>Military</ObjectType>
@@ -10275,7 +10269,7 @@
 		<Flag>HasHPBar</Flag>
 		<Flag>Obscurable</Flag>
 		<Flag>Repairable</Flag>
-		<HPBar>Cov_HealthShield</HPBar>
+		<HPBar>Cov_Health</HPBar>
 		<SingleBoneIK>Bip01 Spine</SingleBoneIK>
 	</Object>
 	<Object name="cov_inf_bruteChief_02" id="0" dbid="4276">
@@ -10290,8 +10284,7 @@
 		<Velocity>15</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>15000</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Hitpoints>20550</Hitpoints>
 		<AttackGradeDPS>450</AttackGradeDPS>
 		<CombatValue>30</CombatValue>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="45" yawattachment="Bip01 Spine" />
@@ -10328,7 +10321,6 @@
 		<Sound Type="Pain">play_cov_chieftain_vo_hit</Sound>
 		<ExtendedSoundBank>xtnd_ui_chieftain.bnk</ExtendedSoundBank>
 		<ObjectType>Covenant</ObjectType>
-		<DamageType direction="Full">Shielded</DamageType>
 		<DamageType direction="Full">CovenantLeader</DamageType>
 		<ObjectType>KeepsInGame</ObjectType>
 		<ObjectType>Military</ObjectType>
@@ -10352,7 +10344,7 @@
 		<Flag>HasHPBar</Flag>
 		<Flag>Obscurable</Flag>
 		<Flag>Repairable</Flag>
-		<HPBar>Cov_HealthShield</HPBar>
+		<HPBar>Cov_Health</HPBar>
 		<SingleBoneIK>Bip01 Spine</SingleBoneIK>
 	</Object>
 	<Object name="cov_inf_bruteChief_03" id="0" dbid="4277">
@@ -10367,8 +10359,7 @@
 		<Velocity>15</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>15000</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Hitpoints>20550</Hitpoints>
 		<AttackGradeDPS>450</AttackGradeDPS>
 		<CombatValue>30</CombatValue>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="45" yawattachment="Bip01 Spine" />
@@ -10405,7 +10396,6 @@
 		<Sound Type="Pain">play_cov_chieftain_vo_hit</Sound>
 		<ExtendedSoundBank>xtnd_ui_chieftain.bnk</ExtendedSoundBank>
 		<ObjectType>Covenant</ObjectType>
-		<DamageType direction="Full">Shielded</DamageType>
 		<DamageType direction="Full">CovenantLeader</DamageType>
 		<ObjectType>KeepsInGame</ObjectType>
 		<ObjectType>Military</ObjectType>
@@ -10445,7 +10435,7 @@
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
 		<Hitpoints>10000</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Shieldpoints>4250</Shieldpoints>
 		<AttackGradeDPS>740</AttackGradeDPS>
 		<CombatValue>30</CombatValue>
 		<Veterancy Level="1" XP="60" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -10523,7 +10513,7 @@
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
 		<Hitpoints>10000</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Shieldpoints>4250</Shieldpoints>
 		<AttackGradeDPS>740</AttackGradeDPS>
 		<CombatValue>30</CombatValue>
 		<Veterancy Level="1" XP="60" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -10850,7 +10840,7 @@
 		<MinimapIcon size="8">Square</MinimapIcon>
 		<DisplayNameID>10158</DisplayNameID>
 		<RolloverTextID>10159</RolloverTextID>
-		<MovementType>Scarab</MovementType>
+		<MovementType>Land</MovementType>
 		<Velocity>15</Velocity>
 		<TurnRate>180</TurnRate>
 		<Shieldpoints>3000</Shieldpoints>

@@ -1415,7 +1415,7 @@
 		<LeashRecallDelay>2500</LeashRecallDelay>
 		<AggroDistance>40</AggroDistance>
 		<Birth anim0="Train" trainerAnim="Research" spawnpoint="bone_spawnPoint01" endPoint="bone_spawnPoint01">Trained</Birth>
-		<HPBar offset="0,10,0">COV_HealthShield</HPBar>
+		<HPBar offset="0,10,0">COV_Health</HPBar>
 		<AbilityRecoveryBar Centered="UNSC_Ability_Centered">UNSC_Ability</AbilityRecoveryBar>
 		<VeterancyBar Centered="UNSC_Star_Centered">UNSC_Star</VeterancyBar>
 		<Units>
@@ -1473,7 +1473,7 @@
 		<LeashRecallDelay>2500</LeashRecallDelay>
 		<AggroDistance>40</AggroDistance>
 		<Birth anim0="Train" trainerAnim="Research" spawnpoint="bone_spawnPoint01" endPoint="bone_spawnPoint01">Trained</Birth>
-		<HPBar offset="0,10,0">COV_HealthShield</HPBar>
+		<HPBar offset="0,10,0">COV_Health</HPBar>
 		<AbilityRecoveryBar Centered="UNSC_Ability_Centered">UNSC_Ability</AbilityRecoveryBar>
 		<VeterancyBar Centered="UNSC_Star_Centered">UNSC_Star</VeterancyBar>
 		<Units>

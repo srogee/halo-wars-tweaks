@@ -11,6 +11,10 @@
 		<MaxRange>90</MaxRange>
 		<Hardpoint>Turret</Hardpoint>
 		<TargetPriority type="Flying">10</TargetPriority>
+		<TargetPriority type="Infantry">4</TargetPriority>
+		<TargetPriority type="GroundVehicle">3</TargetPriority>
+		<TargetPriority type="TurretBuilding">0</TargetPriority>
+		<TargetPriority type="Building">-3</TargetPriority>
 		<Dodgeable />
 	</Weapon>
 	<Weapon>
@@ -24,6 +28,10 @@
 		<MaxRange>90</MaxRange>
 		<Hardpoint>Turret</Hardpoint>
 		<TargetPriority type="Flying">10</TargetPriority>
+		<TargetPriority type="Infantry">4</TargetPriority>
+		<TargetPriority type="GroundVehicle">3</TargetPriority>
+		<TargetPriority type="TurretBuilding">0</TargetPriority>
+		<TargetPriority type="Building">-3</TargetPriority>
 		<Dodgeable />
 	</Weapon>
 	<Weapon>
@@ -166,12 +174,10 @@
 		</TargetRule>
 		<TargetRule>
 			<Relation>Enemy</Relation>
-			<TargetType>Flying</TargetType>
 			<Action>MissileAttackAction</Action>
 		</TargetRule>
 		<TargetRule>
 			<Relation>Enemy</Relation>
-			<TargetType>Flying</TargetType>
 			<Action>UpgradedMissileAttackAction</Action>
 		</TargetRule>
 		<TargetRule>

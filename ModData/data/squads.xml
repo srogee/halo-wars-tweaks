@@ -1812,7 +1812,7 @@
 		<RolloverTextID>24162</RolloverTextID>
 		<RoleTextID>519</RoleTextID>
 		<BuildPoints>16</BuildPoints>
-		<Cost resourcetype="Supplies">160</Cost>
+		<Cost resourcetype="Supplies">150</Cost>
 		<Cost resourcetype="Power">1</Cost>
 		<SubSelectSort>4001</SubSelectSort>
 		<LeashDistance>55</LeashDistance>
